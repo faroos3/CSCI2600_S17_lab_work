@@ -8,4 +8,4 @@ github account: faroos3@rpi.edu
 
 
 
-![alt text](screenshots/me.jpg “A photo of me at Grafton Lake State Park atop a Fire Tower!” 
+![photo of Samad](screenshots/me.jpg)
