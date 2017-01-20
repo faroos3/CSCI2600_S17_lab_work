@@ -1,1 +1,11 @@
-# CSCI2600_S17_lab_work
+﻿Name: Samad Farooqui 
+
+Email: faroos3@rpi.edu / abdussamad100@gmail.com
+
+slack handle: @faroos3
+
+github account: faroos3@rpi.edu 
+
+
+
+ Photo of Samad
