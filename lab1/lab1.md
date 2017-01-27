@@ -18,3 +18,17 @@ Asking a Question the Smart Way:
 Free Culture Thing 
 
 Hey cool, it’s mentioning RPI! However, I didn’t know we have a search engine just for us...is it the thing you use to look at other professor’s research? Okay, so he took Microsoft’s tech for it, is that open source? And his improvement was pretty cool, just a button. Oh nooooo he had music on there! Well, it wasn’t his but he got screwed over anyway. See, that’s the problem with America’s legal system. People never look at everything. Shouldn’t the licenses on the technology he was modifiying help him in any way? Oh well. Poor guy, bad situation. 
+
+![RegEx](screenshots/problem1.png)
+![RegEx](screenshots/problem2.png)
+![RegEx](screenshots/problem3.png)
+![RegEx](screenshots/problem4.png)
+![RegEx](screenshots/problem5.png)
+![RegEx](screenshots/problem6.png)
+![RegEx](screenshots/problem7.png)
+
+The never_ending_race_code built in snap should be in the lab1 file. 
+
+I was thinking about making a speech recognition game, that could take voice as input and try to identify what speech you are quoting, then using it to play a game with friends.
+
+I should not have done this lab so late. I will finish labs earlier next time. The RegEx thing was kind of hard to get a handle of. The Snap was interesting because I really don’t like scratch but I am learning Scheme right now. It was cool to see scheme being put to use in a somewhat practical manner. This class seems like it will be interesting. 
