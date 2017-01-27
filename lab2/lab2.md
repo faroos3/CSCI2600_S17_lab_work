@@ -15,22 +15,10 @@
 9. A game that web application or mobile application that takes voice as input, processes it using the google speech API, and then scans the web for what line from a quote you are saying. Then, it will find a line from a speech that is close to what you said, and you can find political figures or celebrities who agree with you. That would be one mode – another mode could be to practice a speech, as in you select one famous speech and then say as much of it as you can, and it will compare differences for you. Finally, there can be a game mode where you say a line, it will guess which speech you are saying, come up with 4 options including the real one, and you can have a friend guess for points. It would be powered with the Google Speech API. The target audience would be students (possibly trying to memorize a speech for speech class) or just those interested in famous speeches in general, or those who have to give a speech and want to practice theirs. It could use the MIT License, and whatever else it needs in order to be compatible with the Google Speech one. 
 
 10. 
-Website 
-License Present 
-License 
-https://github.com/AesaKamar/Pokedex
-No
-N/a 
-https://github.com/codecombat/codecombat
-Yes
-MIT License
-https://github.com/extesy/hoverzoom
-Yes
-MIT License 
-https://github.com/PizzadashRPIOpenSource/pizzadash
-Yes 
-MIT License
-https://github.com/keyboardnerd/shuttle_tracking_2
-Yes
-MIT License 
-
+| Website                                             | License Present | License               |
+|-----------------------------------------------------|-----------------|-----------------------|
+| https://github.com/AesaKamar/Pokedex                | No              | N/a                   |
+| https://github.com/codecombat/codecombat            | Yes             | The MIT License (MIT) |
+| https://github.com/extesy/hoverzoom                 | Yes             | The MIT License (MIT) |
+| https://github.com/PizzadashRPIOpenSource/pizzadash | Yes             | The MIT License (MIT) |
+| https://github.com/keyboardnerd/shuttle_tracking_2  | Yes             | The MIT License (MIT) |
