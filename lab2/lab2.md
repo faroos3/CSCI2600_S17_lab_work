@@ -1,0 +1,36 @@
+﻿2. It is important to choose a license in order for it to have permissions and grant permissions about usage. It helps determine the scope, duration, renewal, conditions of use, idemnification, auditing, IP protection, warranties, payment, and infringement. For open source's case, the payment should be free, and there shouldn't be penalties for infringement.
+
+3. It is important to avoid using products without explicit licenses because it may not be following the Open Source definition and thus not be really "open source". When it gets into that, then using a software without a license may result in legal penalties, which are never good.
+
+4. I'll agree with this claim. If Gophher wanted to make themselves pay to use, it should have been said from the get-go instead of just starting as open source, and then going back on it. It's kind of like that "Open source" tablet garbage we saw during the guest lecture. And I guess lots of forking without having a base established would be bad.
+
+5. It makes a lot of sense that Microsoft .NET core would use the MIT License. .NET itself is inherintly seems as if it would be very useful for other developers as it is just a framework of a bunch of APIs (from what I'm seeing). The MIT license would allow other people to add to it, and basically try to make their windows machine (whether for business or at home) even better, or fit whatever they need. When giving it to a bunch of developers, especially from a company as huge as Microsoft, people are also going to want to work on it, and Microsoft can even ship it out to make Windows even better.
+
+6. Example project: a piece of software that allows me to browse cat videos from all across the internet from all different websites and lets you create collages of pictures and videos, exporting gifs and wallpapers of whatever you want. I guess the GNU GPL v3 license would be cool for this since it grants patent rights yet still having to show where the source code was gotten from, which is what I would want.
+
+7. So for the GNU GPL v3, users can copy, distribute, and modify software as long as one tracks their changes in the source code, and that's all GPL as well.. The LGPL shares the fact that derivatives must also be used under LGPL, but those software that use that library don't have to be. Finally, Apache 2 doesn't need install instructions, but anyone can use it for commercial use and whatnot. Warranty can also be placed on software with this license. The Apache license is best for business since private use is allowed but private use is not allowed in the other ones. For developers, GPL would be good since modification and commercial use is still allowed, but the source code still has to be credited and all changes to the source code have to be tracked. The LGPL is probably best for the common good as software that uses LGPL software doesn't have to be LGPL itself, so a use can use that for whatever they want to make. 
+
+8. A new repo should be on my profile for you to view, with a license. Here's a link to the repo: https://github.com/faroos3/example_for_csci2963_lab2 it uses the MIT license.
+
+9. A game that web application or mobile application that takes voice as input, processes it using the google speech API, and then scans the web for what line from a quote you are saying. Then, it will find a line from a speech that is close to what you said, and you can find political figures or celebrities who agree with you. That would be one mode – another mode could be to practice a speech, as in you select one famous speech and then say as much of it as you can, and it will compare differences for you. Finally, there can be a game mode where you say a line, it will guess which speech you are saying, come up with 4 options including the real one, and you can have a friend guess for points. It would be powered with the Google Speech API. The target audience would be students (possibly trying to memorize a speech for speech class) or just those interested in famous speeches in general, or those who have to give a speech and want to practice theirs. It could use the MIT License, and whatever else it needs in order to be compatible with the Google Speech one. 
+
+10. 
+Website 
+License Present 
+License 
+https://github.com/AesaKamar/Pokedex
+No
+N/a 
+https://github.com/codecombat/codecombat
+Yes
+MIT License
+https://github.com/extesy/hoverzoom
+Yes
+MIT License 
+https://github.com/PizzadashRPIOpenSource/pizzadash
+Yes 
+MIT License
+https://github.com/keyboardnerd/shuttle_tracking_2
+Yes
+MIT License 
+
