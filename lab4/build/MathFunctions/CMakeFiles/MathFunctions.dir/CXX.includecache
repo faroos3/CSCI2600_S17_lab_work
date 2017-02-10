@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/samad/Dropbox/samads_stuff/RPI_school_work_and_job_stuff/rpi_spring_2017/intro_to_open_source/labs/lab4/MathFunctions/MathFunctions.h
+
+/home/samad/Dropbox/samads_stuff/RPI_school_work_and_job_stuff/rpi_spring_2017/intro_to_open_source/labs/lab4/MathFunctions/mysqrt.cpp
+MathFunctions.h
+/home/samad/Dropbox/samads_stuff/RPI_school_work_and_job_stuff/rpi_spring_2017/intro_to_open_source/labs/lab4/MathFunctions/MathFunctions.h
+TutorialConfig.h
+/home/samad/Dropbox/samads_stuff/RPI_school_work_and_job_stuff/rpi_spring_2017/intro_to_open_source/labs/lab4/MathFunctions/TutorialConfig.h
+stdio.h
+-
+math.h
+-
+
+TutorialConfig.h
+

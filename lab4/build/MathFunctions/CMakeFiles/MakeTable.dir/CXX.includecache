@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/samad/Dropbox/samads_stuff/RPI_school_work_and_job_stuff/rpi_spring_2017/intro_to_open_source/labs/lab4/MathFunctions/MakeTable.cxx
+stdio.h
+-
+stdlib.h
+-
+math.h
+-
+

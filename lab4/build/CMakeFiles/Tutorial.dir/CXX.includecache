@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../MathFunctions/MathFunctions.h
+
+/home/samad/Dropbox/samads_stuff/RPI_school_work_and_job_stuff/rpi_spring_2017/intro_to_open_source/labs/lab4/tutorial.cpp
+TutorialConfig.h
+/home/samad/Dropbox/samads_stuff/RPI_school_work_and_job_stuff/rpi_spring_2017/intro_to_open_source/labs/lab4/TutorialConfig.h
+math.h
+-
+stdio.h
+-
+stdlib.h
+-
+MathFunctions.h
+/home/samad/Dropbox/samads_stuff/RPI_school_work_and_job_stuff/rpi_spring_2017/intro_to_open_source/labs/lab4/MathFunctions.h
+
+TutorialConfig.h
+
