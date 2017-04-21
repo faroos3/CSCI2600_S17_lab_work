@@ -1,0 +1,34 @@
+#This is the MD Lab Report file for Lab 11, the optional lab for Intro to Open Source
+
+Part 1: 
+
+So I used ChatZilla to join the #freenode channel on Freenode, and also was on the a11y chat that the instructions told us to do.
+I tried asking a question on the #freenode one, I just asked what everyone was working on. I got sarcastic responses, like
+"work" and "not getting banned". I can appreciate that but there wasn't any discussion goin on at all. There was no discussion going on
+in the #a11y chat, but actually as I write this, some more discussion is happening in the #freenode chat. Mainly people just asking questions
+about what the channel was for and if it's safe for IPs to be displayed. Still nothing in the #a11y chat though.
+
+Part 2:
+
+![photo of Titanpad](screenshots/titanpad.png)
+
+This is me using the titanpad. I was the last lines on both things. I get the point of it and it's cool and all, but google docs is probably better.
+It just has more functionality. Can also use Slack for messaging between groups, and c9.io is a good thing to use in order to actually code
+with other people together. In order to message a lot of people, Skype or Facebook messenger can be used.
+
+- Synchronous happens one at a time, while aynchronous has a lot of things happening at once.
+- Sometimes when communicating with one person, if the other person responds first, you may have to change what you were writing. That is multiplied by number of people in the channel with the group interaction.
+- People can be toxic, lie, or not do the work they say they will.
+- People are generally pretty good at telling what is a bot. Passing the Turing Test is not easy. 
+
+
+Part 3:
+
+name: #csci2963-01spring2017
+website: rcos.slack.com
+Description: it's the slack that our class uses to communicate and for the instructor (Moorthy) to give us information and keep us up to date with the class.
+Project Goal: To learn all about Open Source Software!
+Communication modes: the slack, and then individual course project slack channels.
+
+Part 4:
+
