@@ -54,13 +54,13 @@ def generate_graph(words):
 def words_graph():
     """Return the words example graph from the Stanford GraphBase"""
     import gzip
-    fh=gzip.open('words_dat.txt.gz','r')
+    fh=gzip.open('words4.dat.gz','r')
     words=set()
     for line in fh.readlines():
         line = line.decode()
         if line.startswith('*'):
             continue
-        w=str(line[0:5])#change back to 5 if it doesn't work 
+        w=str(line[0:4])#change back to 5 if it doesn't work 
         words.add(w)
     return generate_graph(words)
 
@@ -73,10 +73,9 @@ if __name__ == '__main__':
           %(number_of_nodes(G),number_of_edges(G)))
     print("%d connected components" % number_connected_components(G))
 
-    for (source,target) in [('chaos','order'),
-                            ('nodes','graph'),
-                            ('pound','marks'),
-                            ('moron','smart')]:
+    for (source,target) in [
+                            ('love', 'hate'),
+                            ('cold', 'warm')]:
         print("Shortest path between %s and %s is"%(source,target))
         try:
             sp=shortest_path(G, source, target)
